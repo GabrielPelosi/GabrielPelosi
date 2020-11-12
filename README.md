@@ -18,7 +18,7 @@ gabriel.pelosi.2020@gmail.com :email:
 
 +351 926963405 :iphone:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-pelosi-92a578177/) [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=red&color=black"/>](https://www.youtube.com/channel/UC8GOxK-TNdvOA0POvxatYCw)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-pelosi-92a578177/)[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=red&color=black"/>](https://www.youtube.com/channel/UC8GOxK-TNdvOA0POvxatYCw)
 
 
 [![Gabriel github stats](https://github-readme-stats.vercel.app/api?username=GabrielPelosi)](https://github.com/GabrielPelosi/github-readme-stats)
