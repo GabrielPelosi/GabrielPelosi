@@ -1,7 +1,4 @@
 
-<!--
-**GabrielPelosi/GabrielPelosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Olá, eu sou o Gabriel! 👋
 ##### Hi, I'm Gabriel! 👋
 
@@ -13,4 +10,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
