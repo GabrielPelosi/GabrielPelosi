@@ -11,16 +11,16 @@
 Jovem estudante de Engenharia Informática
  aspirante a programador back-end.
 Todos os dias busco trabalhar e evoluir 
-meus conhcimentos lendo,
+meus conhecimentos lendo,
 assistindo tutoriais e realizando 
 projetos individuas que você 
-pode verificar mais abaixo :wink:
+pode verificar mais abaixo. :wink:
 
 
 
 ### **Atualmente estou estudando** 🌱
 Engenharia Informática no Isep(Instituto Superior de Engenharia do Porto),                      
-Java, Spring e ReactJS
+Java, Spring e ReactJS.
 
 **Não estou trabalhando/estagiando mas estou procurando vagas** :computer:
 
