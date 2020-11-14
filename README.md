@@ -1,11 +1,21 @@
 
 ## Olá, eu sou o Gabriel! 👋
 
+
+
+
 ### **Um pouco sobre mim** :boy:
-Jovem estudante de Engenharia Informática aspirante a programador back-end.
-Todos os dias busco trabalhar e evoluir meus conhcimentos lendo,
-assistindo tutoriais e realizando projetos individuas que você 
+<img align="right" width="410" height="260"  src="https://static.collectui.com/shots/3252385/job-opening-large">
+
+
+Jovem estudante de Engenharia Informática
+ aspirante a programador back-end.
+Todos os dias busco trabalhar e evoluir 
+meus conhcimentos lendo,
+assistindo tutoriais e realizando 
+projetos individuas que você 
 pode verificar mais abaixo :wink:
+
 
 
 ### **Atualmente estou estudando** 🌱
