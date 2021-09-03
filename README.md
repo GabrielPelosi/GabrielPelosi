@@ -9,7 +9,7 @@
 
 
 Jovem estudante de Engenharia Informática
- aspirante a programador back-end.
+ aspirante a programador front-end/fullstack.
 Todos os dias busco trabalhar e evoluir 
 meus conhecimentos lendo,
 assistindo tutoriais e realizando 
