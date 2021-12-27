@@ -9,7 +9,7 @@
 
 
 Jovem estudante de Engenharia Informática
- aspirante a programador front-end/fullstack.
+ aspirante a programador fullstack.
 Todos os dias busco trabalhar e evoluir 
 meus conhecimentos lendo,
 assistindo tutoriais e realizando 
@@ -22,7 +22,6 @@ pode verificar mais abaixo. :wink:
 Engenharia Informática no Isep(Instituto Superior de Engenharia do Porto),                      
 Java, Spring e ReactJS.
 
-**Não estou trabalhando/estagiando mas estou procurando vagas** :computer:
 
 **Contatos**  
 :email: gabriel.pelosi.2020@gmail.com 
