@@ -8,8 +8,8 @@
 <img align="right" width="410" height="260"  src="https://static.collectui.com/shots/3252385/job-opening-large">
 
 
-Jovem estudante de Engenharia Informática
- aspirante a programador fullstack.
+Engenheiro de software formado no ISEP(Instituto Superior de Engenharia do Porto) e
+atualmente **Junior Developer** na **PlanetPayment**.
 Todos os dias busco trabalhar e evoluir 
 meus conhecimentos lendo,
 assistindo tutoriais e realizando 
@@ -18,9 +18,8 @@ pode verificar mais abaixo. :wink:
 
 
 
-### **Atualmente estou estudando** 🌱
-Engenharia Informática no Isep(Instituto Superior de Engenharia do Porto),                      
-Java, Spring e ReactJS.
+### **Algumas de minha habilidades** 🌱                      
+Java, Spring, Docker, Kafka.
 
 
 **Contatos**  
