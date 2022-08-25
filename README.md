@@ -19,7 +19,7 @@ pode verificar mais abaixo. :wink:
 
 
 ### **Algumas de minha habilidades** 🌱                      
-Java, Spring, Docker, Kafka.
+Java, Spring, Docker e Kafka.
 
 
 **Contatos**  
