@@ -1,5 +1,5 @@
 
-## Olá, eu sou o Gabriel! 👋
+## Olá! 👋
 
 
 
@@ -9,7 +9,7 @@
 
 
 Engenheiro de software formado no ISEP(Instituto Superior de Engenharia do Porto) e
-atualmente **Junior Developer** na **PlanetPayment**.
+atualmente **Developer** na **PlanetPayment**.
 Todos os dias busco trabalhar e evoluir 
 meus conhecimentos lendo,
 assistindo tutoriais e realizando 
@@ -19,13 +19,11 @@ pode verificar mais abaixo. :wink:
 
 
 ### **Algumas de minha habilidades** 🌱                      
-Java, Spring, Docker e Kafka.
+Java, Spring, Docker, RabbitMQ, SQL Server, CI/CD.
 
 
 **Contatos**  
 :email: gabriel.pelosi.2020@gmail.com 
-
-:iphone: +351 926963405 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-pelosi-92a578177/)
 
