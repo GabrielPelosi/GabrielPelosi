@@ -11,8 +11,7 @@
 Engenheiro de software formado no ISEP(Instituto Superior de Engenharia do Porto) e
 atualmente **Developer** na **PlanetPayment**.
 Todos os dias busco trabalhar e evoluir 
-meus conhecimentos lendo,
-assistindo tutoriais e realizando 
+meus conhecimentos lendo e realizando 
 projetos individuas que você 
 pode verificar mais abaixo. :wink:
 
